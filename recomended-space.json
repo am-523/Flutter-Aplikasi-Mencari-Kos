@@ -1,0 +1,112 @@
+[
+{
+id: 1,
+name: "Sanctuary Home",
+city: "Jakarta",
+country: "Indonesia",
+price: 48,
+image_url: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+rating: 5,
+address: "Jln. Ahmad Yani No. 1",
+phone: "6234567890",
+map_url: "https://goo.gl/maps/5s61rreEq3PVn44u9",
+photos: [
+"https://images.unsplash.com/photo-1554995207-c18c203602cb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+"https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1950&q=80",
+"https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+"https://images.unsplash.com/photo-1556911220-bff31c812dba?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8a2l0Y2hlbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+"https://images.unsplash.com/flagged/photo-1556438758-84625859c6b6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fHRvaWxldHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+],
+number_of_kitchens: 2,
+number_of_bedrooms: 3,
+number_of_cupboards: 3
+},
+{
+id: 2,
+name: "Emerald Stay",
+city: "Bandung",
+country: "Germany",
+price: 17,
+image_url: "https://images.unsplash.com/photo-1486304873000-235643847519?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80",
+rating: 3,
+address: "Jln. Soekarno Hatta No. 40",
+phone: "123654",
+map_url: "https://goo.gl/maps/MFWDrkDT8Dt9WNpw8",
+photos: [
+"https://images.unsplash.com/photo-1513694203232-719a280e022f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8cm9vbXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+"https://images.unsplash.com/photo-1463797221720-6b07e6426c24?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTR8fHJvb218ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+"https://images.unsplash.com/photo-1537726235470-8504e3beef77?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTl8fHJvb218ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+"https://images.unsplash.com/flagged/photo-1570737231926-4d67558ff216?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzZ8fHRvaWxldHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+"https://images.unsplash.com/photo-1598546720078-8659863bc47d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8a2l0Y2hlbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+],
+number_of_kitchens: 3,
+number_of_bedrooms: 2,
+number_of_cupboards: 1
+},
+{
+id: 3,
+name: "Luxury Dreamwood",
+city: "Seattle",
+country: "Bogor",
+price: 22,
+image_url: "https://images.unsplash.com/photo-1524061614234-8449637d36ce?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+rating: 4,
+address: "Jln. Jendral Sudirman No. 101",
+phone: "987654321",
+map_url: "https://goo.gl/maps/ifc31HSJ3uBAaoWH6",
+photos: [
+"https://images.unsplash.com/photo-1572891086295-6c1c7c476549?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDN8fHJvb218ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+"https://images.unsplash.com/photo-1506664453913-f326aa81f54d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzR8fHJvb218ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+"https://images.unsplash.com/photo-1484154218962-a197022b5858?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjV8fHJvb218ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+"https://images.unsplash.com/photo-1578283439094-6aaadba8732a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjF8fHRvaWxldHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+"https://images.unsplash.com/photo-1588854337236-6889d631faa8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8a2l0Y2hlbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+],
+number_of_kitchens: 1,
+number_of_bedrooms: 4,
+number_of_cupboards: 5
+},
+{
+id: 4,
+name: "Orange Crown",
+city: "Halla",
+country: "Sumatra",
+price: 552,
+image_url: "https://images.unsplash.com/photo-1585634917202-6f03b28fc6d0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80",
+rating: 5,
+address: "Jln. Warna Orange No. 101",
+phone: "987654321",
+map_url: "rifqiganteng",
+photos: [
+"https://images.unsplash.com/photo-1554995207-c18c203602cb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+"https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1950&q=80",
+"https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+"https://images.unsplash.com/photo-1556911220-bff31c812dba?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8a2l0Y2hlbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+"https://images.unsplash.com/flagged/photo-1556438758-84625859c6b6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fHRvaWxldHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+],
+number_of_kitchens: 2,
+number_of_bedrooms: 3,
+number_of_cupboards: 3
+},
+{
+id: 5,
+name: "City of Cactus",
+city: "Jakarta",
+country: "Indonesia",
+price: 20,
+image_url: "https://images.unsplash.com/photo-1523575708161-ad0fc2a9b951?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjZ8fGNhY3R1cyUyMHJvb218ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+rating: 3,
+address: "Jln. Kaktus Selatan No. 101",
+phone: "mantapgan",
+map_url: "https://goo.gl/maps/ifc31HSJ3uBAaoWH6",
+photos: [
+"https://images.unsplash.com/photo-1513694203232-719a280e022f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8cm9vbXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+"https://images.unsplash.com/photo-1463797221720-6b07e6426c24?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTR8fHJvb218ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+"https://images.unsplash.com/photo-1537726235470-8504e3beef77?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTl8fHJvb218ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+"https://images.unsplash.com/flagged/photo-1570737231926-4d67558ff216?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzZ8fHRvaWxldHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+"https://images.unsplash.com/photo-1598546720078-8659863bc47d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8a2l0Y2hlbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+],
+number_of_kitchens: 3,
+number_of_bedrooms: 2,
+number_of_cupboards: 1
+}
+]
